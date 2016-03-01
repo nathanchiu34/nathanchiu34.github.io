@@ -14,6 +14,8 @@ Some of my personal projects are **under construction**
 
 ##### But some things I am working on are:
 
+
+
 [Reddit Sentiment Analysis](http://github.com/nathanchiu34/Reddit-Sentiment)
 
 You can see a iPython notebook of some of my notes and a little sample output file.	

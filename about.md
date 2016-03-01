@@ -16,4 +16,4 @@ Best cartoon character quote to describe me:
 > "**This is me now**" - Gene Belcher of Bob's Burgers
 
 
-![Gene gif](https://media.giphy.com/media/lIg15wzqRGX6w/giphy-facebook_s.jpg)
+![Gene gif](http://i.giphy.com/lIg15wzqRGX6w.gif)
