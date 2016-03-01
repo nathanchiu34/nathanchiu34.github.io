@@ -14,4 +14,6 @@ When i'm not trying to figure out stuff (like data science, software development
 Best cartoon character quote to describe me:
 
 > "**This is me now**" - Gene Belcher of Bob's Burgers
-![Gene gif](http://giphy.com/gifs/style-bobs-burgers-lIg15wzqRGX6w)
+
+
+![Gene gif](https://media.giphy.com/media/lIg15wzqRGX6w/giphy-facebook_s.jpg)

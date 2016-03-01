@@ -9,6 +9,7 @@ description: ""
 ### Personal Projects
 
 Some of my personal projects are **under construction**
+
 ***
 
 ##### But some things I am working on are:
