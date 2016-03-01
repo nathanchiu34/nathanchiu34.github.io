@@ -12,6 +12,6 @@ tagline: nathanchiu34 {at} gmail.com
 [Projects](http://nathanchiu34.github.io/projects)
 
 
-###### Jekyll
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+###### Thanks to Jekyll
+[Jekyll Bootstrap](http://jekyllbootstrap.com)
 
