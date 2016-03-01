@@ -5,10 +5,13 @@ tagline: nathanchiu34 {at} gmail.com
 ---
 {% include JB/setup %}
 
+####### As you can tell, site under construction
+
 [About](http://nathanchiu34.github.io/about)
+
 [Projects](http://nathanchiu34.github.io/projects)
 
 
-## Jekyll
+######### Jekyll
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
